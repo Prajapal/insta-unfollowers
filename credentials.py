@@ -1,2 +1,2 @@
-un = "call_me__thorie"
-pw = "aahnppssy@69420"
+un = "your_username_here"
+pw = "Your_password_here"
